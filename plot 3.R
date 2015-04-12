@@ -1,4 +1,4 @@
-# Explore Data Project 1
+# Explore Data Analysis Project 1
 # plot 3
 
 # Read data
